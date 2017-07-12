@@ -3,7 +3,7 @@ libqrencode-ctypes
 
 
 This is libqrencode python ctypes bindings, it only support python3.
-if you wants a python3 library, please use https://github.com/mubeta06/python/libqrencode_ctypes_bindings .
+if you wants a python2 library, please use https://github.com/mubeta06/python/libqrencode_ctypes_bindings .
 
 This project forks from https://github.com/mubeta06/python ,
 only accept libqrencode-ctypes feature, and translate it to python3.
